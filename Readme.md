@@ -1,4 +1,5 @@
-## Instruções: data_eng_test_version_1.
+## Instruções: 
+### Notebook: data_eng_test_version_1.ipynb
 ### 1 - Open In Colab
 ### 2 - barra lateral esquerda >> Arquivos >> Montar Drive
 ### 3 - escreva o caminho do arquivo .ZIP em "caminho_zip = caminho do seu arquivo".
